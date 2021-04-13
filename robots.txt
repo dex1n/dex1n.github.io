@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://dex1n.github.io//dex1n.github.io/sitemap.xml

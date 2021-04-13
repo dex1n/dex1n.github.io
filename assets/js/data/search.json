@@ -1,0 +1,19 @@
+[
+  
+  {
+    "title": "Writing a New Post",
+    "url": "/dex1n.github.io/posts/write-a-new-post/",
+    "categories": "Blogging, Tutorial",
+    "tags": "writing",
+    "date": "2019-08-08 14:10:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Naming and PathCreate a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts/ of the root directory. Please note that the EXTENSION must be one of md and markdown.Front MatterBasically, you need to fill the Front Matter as below at the top of the post:---title: TITLEdate: YYYY-MM-DD..."
+  }
+  
+]
+
