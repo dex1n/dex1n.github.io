@@ -1,6 +1,6 @@
-self.importScripts('/dex1n.github.io/assets/js/data/cache-list.js');
+self.importScripts('/assets/js/data/cache-list.js');
 
-var cacheName = 'chirpy-20210413.2153';
+var cacheName = 'chirpy-20210413.2205';
 
 
 function isExcluded(url) {
